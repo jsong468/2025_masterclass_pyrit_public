@@ -1,8 +1,7 @@
 {
-  "name": "vanilla-basic",
+  "name": "static-site",
   "version": "1.0.0",
-  "scripts": { 
-    "start": "sirv ./src public --cors --single --no-clear --port 8000"
+  "scripts": {
     "build": "echo 'no build'"
   }
 }
